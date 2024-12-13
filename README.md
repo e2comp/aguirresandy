@@ -169,7 +169,7 @@
         <h2>Viruses, Malware, Spam, and Antiviruses</h2>
         <h3>What are Computer Viruses?</h3>
         <p>Viruses are malicious programs designed to replicate themselves and spread to other systems. They can corrupt files, steal personal information, or even take control of your computer. Think of them as digital parasites, latching onto your system and causing damage.</p>
-        <img src="https://www.example.com/virus-image.jpg" alt="Computer Virus Image" />
+        <img src="Messenger_creation_4F30216D-5834-43D2-BC19-36F83B035DFB.jpeg" alt="Computer Virus Image" />
         <h3>What is Malware?</h3>
         <p>Malware encompasses a broader range of malicious software, including viruses, worms, Trojans, and spyware. While viruses primarily replicate themselves, malware can perform various malicious actions, such as stealing data, monitoring keystrokes, or even launching denial-of-service attacks. Malware often enters your system through infected downloads, phishing emails, or malicious websites.</p>
         <h3>What is Spam?</h3>
