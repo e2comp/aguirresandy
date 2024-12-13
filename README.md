@@ -162,7 +162,12 @@
             </tr>
         </table>
         <h3>Watch the Video on Plagiarism</h3>
-        <iframe src="https://m.youtube.com/watch?v=uAmm5YSe_us&pp=ygUKcGxhZ2lhcmlzbQ%3D%3D" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/uAmm5YSe_us" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
     </div>
     <!-- Blog Page -->
     <div id="blog" class="content">
